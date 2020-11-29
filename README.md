@@ -1,5 +1,7 @@
 # CS1637-Design-Project4
 
+Below is a list of all the artifacts for my Design Project 4 submission. The link to the Video Walkthrough, Adobe XD Clickable Prototype, and Mr. Party are embedded in the ReadMe. The written report and design evaluation have been checked into the repository. 
+
 ## Artifacts 
 
 ### Video Walkthrough 
