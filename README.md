@@ -5,10 +5,10 @@ Below is a list of all the artifacts for my Design Project 4 submission. The lin
 ## Artifacts 
 
 ### Video Walkthrough 
-The video walkthrough can be accessed through YouTube or OneDrive. It contains: 
+The video walkthrough can be accessed through [YouTube](https://youtu.be/CSYxAq9PXnQ) or [OneDrive](https://pitt-my.sharepoint.com/:v:/g/personal/mjk139_pitt_edu/EdcOkY-D4d9KkO_Q5ahLF54BLMAT7qjE2u-gp4eIfNN4UQ?e=cbzvps). It contains: 
 - A brief explanation of Mr. Party
 - A walkthrough of the Adobe XD clickable prototype
-- Comparison between the Adobe XD design and the exiting Mr. Party 
+- Comparison between the Adobe XD design and the live version Mr. Party 
 
 ### Adobe XD Clickable Prototype
 The Adobe XD clickable prototype showcases the design changes that I intend to implement to make the service more relevant in a world with COVID-19. 
