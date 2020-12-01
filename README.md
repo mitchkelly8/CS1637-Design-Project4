@@ -11,7 +11,7 @@ The video walkthrough can be accessed through [YouTube](https://youtu.be/CSYxAq9
 - Comparison between the Adobe XD design and the live version Mr. Party 
 
 ### Adobe XD Clickable Prototype
-The Adobe XD clickable prototype showcases the design changes that I intend to implement to make the service more relevant in a world with COVID-19. 
+The Adobe XD [clickable prototype](https://xd.adobe.com/view/70bc3d26-1065-4089-bd76-61e136460171-25ef/screen/352b36da-9a1c-4550-8d15-2f95ab12e12b) showcases the design changes that I intend to implement to make the service more relevant in a world with COVID-19. 
 
 ### Mr. Party
 Mr. Party is an iPhone application available for download on the [iOS App Store](https://apps.apple.com/us/app/mr-party/id1213486893). If you use Spotify or Apple Music, I would recommend downloading the application to get a better idea of what it does. Additional information about the application can be found on the [Mr. Party Website](https://www.mrpartyapp.com/).
